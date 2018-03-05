@@ -1,7 +1,7 @@
-#Frankenstein Word Cloud
+# Frankenstein Word Cloud
 
 ![](resources/frankensteinOutput.png?raw=true)
 
-#Required Dependencies
+## Required Dependencies
 
 [Kumo - Java Word Cloud Library](https://github.com/kennycason/kumo)
